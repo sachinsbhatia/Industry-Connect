@@ -11,3 +11,7 @@ Setting up MongoDB account:
 I had already created my account, set up new databse and had my URI initialised so no need for you to repeat these steps.
 
 5. cd back into the main directory and run npm start. Hence, You can now access the site at localhost:3000.
+6. Hence it will now run locally. 
+
+I had deployed the same on Heroku also.
+You can access it from here : https://whispering-hollows-70758.herokuapp.com/login
